@@ -1,6 +1,6 @@
 const idades = require('../src/idades')
 
-describe('Testes Idades', () => {
+describe('Testes idades', () => {
   it('Exibe o resultado esperado quando o cálculo é executado', () => {
     const pessoaUm = {
       nome: "Maria Silva",
